@@ -1,5 +1,5 @@
-a = input('Введи, с какого числа ты хочешь начать(от 0 до 9)\n')
-length = int(input('Сколько итераций ты хочешь воспроизвести?\n'))
+a = input('0-9\n')
+length = int(input('Iterations\n'))
 list_ = [a]
 new_list_ = []
 w = 1
